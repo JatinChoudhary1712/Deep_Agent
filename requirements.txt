@@ -1,0 +1,5 @@
+deepagents 
+langgraph 
+langchain 
+langchain-openrouter
+ipykernel
